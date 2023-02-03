@@ -1,2 +1,2 @@
-# USATU-SDO-Answers-Parser
-USATU-SDO-Answers-Parser
+# UGATU-SDO-Answers-Parser
+UGATU-SDO-Answers-Parser
